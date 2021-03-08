@@ -1,0 +1,9 @@
+Code adapted from https://angular.io/start and https://angular.io/generated/live-examples/getting-started-v0/stackblitz.html
+
+The following copyright notice may apply to some of the source code in this repository:
+
+/*
+Copyright Google LLC. All Rights Reserved.
+Use of this source code is governed by an MIT-style license that
+can be found in the LICENSE file at https://angular.io/license
+*/

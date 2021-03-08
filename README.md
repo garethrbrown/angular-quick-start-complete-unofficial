@@ -4,7 +4,7 @@ This is a working project following completion of the quick start tutorial at ht
 
 ### Modifications
 
-- This project is set up with `"strict": true` in `tsconfig.json` as that is how I intended to build further projects using Angular. Some modifications were made, such as specifying the `any` type where it would otherwise have been implicit.
+- This project is set up with `"strict": true` in `tsconfig.json` as that is how I intended to build further projects using Angular. Some further modifications were made as a result, such as specifying the `any` type where it would otherwise have been implicit.
 - A new application was created with more recent versions of Angular and TypeScript based on the standard `ng new` template: https://angular.io/guide/setup-local
 - The project has been configured with routing included during project scaffolding.
 - Less CSS preprocessing was selected during project scaffolding and a simple settings file has been added.  
